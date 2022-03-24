@@ -1,1 +1,3 @@
 ## Welcome to sdg.id.au
+
+This site was created for the purpose of experimenting with GitHub Pages.
