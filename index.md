@@ -1,5 +1,5 @@
 ---
-title: Blogging Like a Hacker
+title: Simon G
 ---
 
 ## Welcome to sdg.id.au
