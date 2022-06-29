@@ -1,6 +1,6 @@
 ---
 title: Simon G
-description: Nothing to see here
+description: Nothing to see here (yet)
 ---
 
 ## Welcome to sdg.id.au
