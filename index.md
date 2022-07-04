@@ -1,8 +1,14 @@
 ---
 title: Simon G
-description: Nothing to see here (yet)
+description: Not much to see here (yet)
 ---
 
 ## Welcome to sdg.id.au
 
 This site was created for the purpose of experimenting with GitHub Pages and a custom domain.
+
+## Chess Engine
+
+<https://chess.sdg.id.au>
+
+This is a basic chess engine that I wrote in C# in 2016, and have now ported to run in the browser using [WebAssembly](https://webassembly.org/).
