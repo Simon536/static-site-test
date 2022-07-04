@@ -9,6 +9,6 @@ This site was created for the purpose of experimenting with GitHub Pages and a c
 
 ## Chess Engine
 
-<https://chess.sdg.id.au>
-
 This is a basic chess engine that I wrote in C# in 2016, and have now ported to run in the browser using [WebAssembly](https://webassembly.org/).
+
+[chess.sdg.id.au](https://chess.sdg.id.au)
